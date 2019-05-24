@@ -1,0 +1,68 @@
+blockquote, body, button, dd, dl, dt, fieldset, 
+form, h1, h2, h3, h4, h5, h6, hr, input, legend, 
+li, ol, p, pre, td, textarea, th, ul{}
+    body{
+        color:black;
+        font-size: 20px;
+        font-family:"宋体" ;}
+body{
+    background-image:url("../img/1.jpg"),url("../img/19.jpg");
+    background-repeat:no-repeat, no-repeat;  
+    background-position: 70px 65px, 1050px 65px;  
+    background-size: 400px 600px;
+    outline-color: grey;
+    outline-width: 1px;
+    border:0px solid gray;
+}          
+.top{
+    width:600px;
+    height:720px;
+    background:url(../img/11.jpg);
+    /* border-top: 10px dashed burlywood; */
+    /* border-bottom: 20px dotted burlywood;  */
+    margin: 0 auto;  
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    color: gray;
+}
+.mid{
+    height:670px;
+    background:blanchedalmond;
+    border:2px solid gray;
+    opacity: 0.8;
+    box-sizing: content-box;
+    padding: 10px;
+    padding-top: 40px;
+    margin: 0px;
+    text-align: center;
+    line-height: 30px;
+    float: center;
+}
+.register_title{
+    /* width: 120px;
+    height:60px; */
+    /* background: whitesmoke; */
+    color: hotpink;
+    font-size: 30px;
+    line-height: 0px;
+    padding: 1px;
+    /* box-sizing: border-box;
+    border:5px solid gray; */
+    text-align: center;
+    margin-left: 400px;
+    margin-top: 100px;
+    position: absolute;
+    top: 0px;
+    left: 300px;
+}
+.b_login{
+    color: goldenrod;
+    font-family: fantasy;
+    font-size: 20px;
+}
+.luosehn{
+    color:salmon;
+    font-size: 15px;
+}

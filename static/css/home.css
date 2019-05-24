@@ -1,0 +1,50 @@
+p{
+    width: 365px;
+    height: 250px;
+    /* background:rgb(252, 241, 187); */
+    color:black;
+    font-size: 20px;
+    font-family: "宋体";
+    font-weight: 100px;
+    line-height: 30px;
+    padding: 1px;   
+    margin: 1px;
+    float: right;
+    text-align: center；
+}
+div{
+    width: 365px;
+    height: 750px;
+    background: blanchedalmond;
+    color: #224345;
+    font-size: 20px;
+    font-family: "宋体";
+    font-weight: 100px;
+    line-height: 30px;  
+    padding: 3px;   
+    margin: 2px;
+    float: left;
+    text-align: center
+}
+.head{
+    height: 60px;
+    width: 1490px;
+    background:blanchedalmond;
+}
+.home{
+    text-decoration: none;
+    color: salmon;
+    font-size:60px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top:12px; 
+}
+.b_login{
+    position: relative;
+    right: -430px;
+}
+.b_register{
+    position: relative;
+    right: -450px;
+}
